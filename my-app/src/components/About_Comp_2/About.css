@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    opacity: 0.9;
+}
+.col__2{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin-top: 40px;
+    background-color: #0c0c0c;
+    color: white;
+    height: 500px;
+
+}
+.about-anees{
+    font-family: cursive;
+    color: brown;
+}
+img.about_img{
+    border-radius: 33px;
+    margin-left: 10px;
+    width: 50%;
+    height: 60vh;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+h1.about_heading{
+    color: blue;
+    text-align: center;
+    margin-top: 60px;
+}
+p.about_text{
+    margin-top: 29px;
+    color: #cacae570;
+}
+button.btn{
+    margin: 5px;
+}

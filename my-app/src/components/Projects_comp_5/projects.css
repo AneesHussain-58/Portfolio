@@ -1,0 +1,70 @@
+.colr-cont{
+    background-color: #2b2727;
+    color: rgb(139, 134, 134);
+    margin-top: 60px;
+    padding-top: 50px;
+
+}
+.heading-projects{
+    text-align: center;
+}
+hr.new5 {
+    width: 50%;
+    height: 3vh;
+    background-color: rgb(82, 173, 7);
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.gri-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 300px;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.project-heading{
+    background-color:#282828;
+    border-radius: 20px ;
+    color:rgba(255, 255, 255, 0.705);
+    font-family:  monospace;
+    box-shadow: 2px 0px 50px rgb(67, 68, 67);;
+
+
+}
+.heading-subproject{
+    color: rgb(119, 119, 207);
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.top-below{
+    margin-top: 100px;
+}
+.text-details{
+    /* line-height: 2; */
+    margin-bottom: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* text-align: center; */
+    padding:20px;
+    margin-top: 20px;
+
+}
+.top-bot{
+    margin-top: 80px;
+}
+.tool-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+    color: cornflowerblue;
+    margin-left: 44px;
+}
+.Tool-images{
+    width: 10%;
+    margin-top: 30px;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
